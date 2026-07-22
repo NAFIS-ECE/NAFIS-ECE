@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=P%20S%20Sheik%20MD%20Nafis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Embedded%20Systems%20%26%20Software%20Engineer&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5%20P%20S%20Sheik%20MD%20Nafis%20%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Embedded%20Systems%20%26%20Software%20Engineer&descAlignY=58&descSize=18" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=RIT-ECE+Student+%7C+Learner;Building+Embedded+Systems+Projects;Problem+Solver+%7C+Actively+Learning" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5+P+S+Sheik+MD+Nafis+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5;RIT-ECE+Student+%7C+Learner;Building+Embedded+Systems+Projects;Problem+Solver+%7C+Actively+Learning" alt="typing" />
 </p>
 
 <p align="center">
