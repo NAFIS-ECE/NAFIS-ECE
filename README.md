@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, I'm P S Sheik MD Nafis 👋</h1>
-
-<h3 align="center">RIT-ECE Student | Aspiring Embedded Systems & Software Engineer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=P%20S%20Sheik%20MD%20Nafis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Embedded%20Systems%20%26%20Software%20Engineer&descAlignY=58&descSize=18" alt="header" />
+</p>
 
 <p align="center">
-  🚀 Building projects & skills | 🧩 Problem Solver | 📚 Actively Learning
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=RIT-ECE+Student+%7C+Learner;Building+Embedded+Systems+Projects;Problem+Solver+%7C+Actively+Learning" alt="typing" />
 </p>
 
 <p align="center">
@@ -23,21 +23,17 @@ Python for embedded systems, data structures & algorithms, and core software eng
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NAFIS-ECE&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAFIS-ECE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NAFIS-ECE&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAFIS-ECE&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAFIS-ECE&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAFIS-ECE&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NAFIS-ECE/NAFIS-ECE/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -48,5 +44,9 @@ Python for embedded systems, data structures & algorithms, and core software eng
 </p>
 
 <p align="center">
-  📍 Chennai, India &nbsp;|&nbsp; 📫 Reach me via GitHub
+  📍 Chennai, India
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
 </p>
