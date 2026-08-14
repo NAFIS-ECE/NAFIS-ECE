@@ -48,126 +48,16 @@ Python for embedded systems, data structures & algorithms, and core software eng
 </p>
 <div align="center">
 
-## 🏆 Professional Certifications
+## 🏆 Professional Certifications & Milestones
 
-Click any certificate below to view details
+<div align="center">
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin: 2rem 0; padding: 0 1rem;">
-  
-  <div style="background: #f8f8f8; border: 2px solid #e0e0e0; border-radius: 12px; padding: 16px; cursor: pointer; text-align: center; transition: all 0.2s;" onmouseover="this.style.borderColor='#0066cc'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.1)'" onmouseout="this.style.borderColor='#e0e0e0'; this.style.boxShadow='none'" onclick="toggleCert(0)">
-    <div style="font-size: 32px; margin-bottom: 12px;">📄</div>
-    <h3 style="font-size: 14px; font-weight: 500; margin: 0 0 8px;">Mastering Microsoft Word</h3>
-    <p style="font-size: 12px; color: #666; margin: 0 0 8px;">Learnify IT</p>
-    <div style="display: flex; gap: 8px; font-size: 11px; color: #999; justify-content: center;">
-      <span>📅 May 14, 2026</span>
-      <span>⏱️ 3.5 hrs</span>
-    </div>
-  </div>
+### 📜 Achievement Unlocked!
 
-  <div style="background: #f8f8f8; border: 2px solid #e0e0e0; border-radius: 12px; padding: 16px; cursor: pointer; text-align: center; transition: all 0.2s;" onmouseover="this.style.borderColor='#0066cc'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.1)'" onmouseout="this.style.borderColor='#e0e0e0'; this.style.boxShadow='none'" onclick="toggleCert(1)">
-    <div style="font-size: 32px; margin-bottom: 12px;">🎨</div>
-    <h3 style="font-size: 14px; font-weight: 500; margin: 0 0 8px;">PowerPoint Basics</h3>
-    <p style="font-size: 12px; color: #666; margin: 0 0 8px;">Bright Path</p>
-    <div style="display: flex; gap: 8px; font-size: 11px; color: #999; justify-content: center;">
-      <span>📅 June 3, 2026</span>
-      <span>⏱️ 5.5 hrs</span>
-    </div>
-  </div>
+[![Udemy - Mastering Microsoft Word](https://img.shields.io/badge/🎓-Mastering%20Microsoft%20Word-blue?style=for-the-badge&logo=udemy&logoColor=white)](./certificates/1-word-mastery.png)
+[![Udemy - PowerPoint Basics](https://img.shields.io/badge/🎓-PowerPoint%20Presentation%20Basics-blueviolet?style=for-the-badge&logo=udemy&logoColor=white)](./certificates/2-ppt-basics.png)
+[![Udemy - Advanced PowerPoint](https://img.shields.io/badge/🎓-Advanced%20PowerPoint%20Masterclass-purple?style=for-the-badge&logo=udemy&logoColor=white)](./certificates/3-ppt-advanced.png)
 
-  <div style="background: #f8f8f8; border: 2px solid #e0e0e0; border-radius: 12px; padding: 16px; cursor: pointer; text-align: center; transition: all 0.2s;" onmouseover="this.style.borderColor='#0066cc'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.1)'" onmouseout="this.style.borderColor='#e0e0e0'; this.style.boxShadow='none'" onclick="toggleCert(2)">
-    <div style="font-size: 32px; margin-bottom: 12px;">⭐</div>
-    <h3 style="font-size: 14px; font-weight: 500; margin: 0 0 8px;">Advanced Masterclass</h3>
-    <p style="font-size: 12px; color: #666; margin: 0 0 8px;">Learnify IT</p>
-    <div style="display: flex; gap: 8px; font-size: 11px; color: #999; justify-content: center;">
-      <span>📅 Aug 15, 2026</span>
-      <span>⏱️ 4 hrs</span>
-    </div>
-  </div>
-
-</div>
-
-<div id="certDetails" style="display: none; background: #f5f5f5; border: 1px solid #ddd; border-radius: 12px; padding: 2rem; margin: 2rem 1rem;">
-  <div style="text-align: left;">
-    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem;">
-      <h3 id="certTitle" style="font-size: 18px; font-weight: 600; margin: 0;"></h3>
-      <button onclick="closeCert()" style="background: none; border: none; font-size: 20px; cursor: pointer; color: #999;">✕</button>
-    </div>
-
-    <div style="display: grid; gap: 1.5rem; grid-template-columns: 1fr 1fr;">
-      <div>
-        <p style="font-size: 12px; color: #666; text-transform: uppercase; letter-spacing: 0.5px; margin: 0 0 8px; font-weight: 600;">Instructor</p>
-        <p id="certInstructor" style="font-size: 14px; margin: 0 0 1.5rem;"></p>
-
-        <p style="font-size: 12px; color: #666; text-transform: uppercase; letter-spacing: 0.5px; margin: 0 0 8px; font-weight: 600;">Completion Date</p>
-        <p id="certDate" style="font-size: 14px; margin: 0 0 1.5rem;"></p>
-
-        <p style="font-size: 12px; color: #666; text-transform: uppercase; letter-spacing: 0.5px; margin: 0 0 8px; font-weight: 600;">Duration</p>
-        <p id="certDuration" style="font-size: 14px; margin: 0 0 1.5rem;"></p>
-
-        <p style="font-size: 12px; color: #666; text-transform: uppercase; letter-spacing: 0.5px; margin: 0 0 8px; font-weight: 600;">Certificate ID</p>
-        <p id="certId" style="font-size: 11px; color: #0066cc; margin: 0; font-family: monospace; word-break: break-all;"></p>
-      </div>
-
-      <div style="text-align: center;">
-        <p style="font-size: 12px; color: #666; text-transform: uppercase; letter-spacing: 0.5px; margin: 0 0 12px; font-weight: 600;">Preview</p>
-        <div id="certPreview" style="background: #fff; border: 1px dashed #ddd; border-radius: 8px; padding: 1.5rem; height: 240px; display: flex; align-items: center; justify-content: center; text-align: center;">
-          <div>
-            <div style="font-size: 48px; margin-bottom: 12px;">🎓</div>
-            <p style="font-size: 13px; color: #666; margin: 0;">Certificate image preview</p>
-            <p style="font-size: 11px; color: #999; margin: 8px 0 0;">Upload to /certificates/ folder</p>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div style="margin-top: 1.5rem; padding-top: 1.5rem; border-top: 1px solid #ddd;">
-      <a id="certLink" href="#" style="display: inline-block; padding: 10px 16px; background: #0066cc; color: white; border-radius: 8px; text-decoration: none; font-size: 13px; font-weight: 600; cursor: pointer;">Verify on Udemy</a>
-    </div>
-  </div>
-</div>
-
-<script>
-const certificates = [
-  {
-    title: "Mastering Microsoft Word: A Comprehensive Guide to Boost You",
-    instructor: "Learnify IT",
-    date: "May 14, 2026",
-    duration: "3.5 total hours",
-    id: "UC-b9d9f61e-9084-4dd8-9b35-dade24ddad86",
-    url: "https://ude.my/UC-b9d9f61e-9084-4dd8-9b35-dade24ddad86"
-  },
-  {
-    title: "Microsoft PowerPoint: Blank Slide to Powerful Presentation",
-    instructor: "Bright Path",
-    date: "June 3, 2026",
-    duration: "5.5 total hours",
-    id: "UC-a2519866-9d3d-4167-89f9-61ca1609b88d",
-    url: "https://ude.my/UC-a2519866-9d3d-4167-89f9-61ca1609b88d"
-  },
-  {
-    title: "Advanced PowerPoint Masterclass for Professionals",
-    instructor: "Learnify IT",
-    date: "Aug 15, 2026",
-    duration: "4 total hours",
-    id: "UC-fc49335f-0250-477a-96be-edeb7a375424",
-    url: "https://ude.my/UC-fc49335f-0250-477a-96be-edeb7a375424"
-  }
-];
-
-function toggleCert(index) {
-  const cert = certificates[index];
-  document.getElementById('certTitle').textContent = cert.title;
-  document.getElementById('certInstructor').textContent = cert.instructor;
-  document.getElementById('certDate').textContent = cert.date;
-  document.getElementById('certDuration').textContent = cert.duration;
-  document.getElementById('certId').textContent = cert.id;
-  document.getElementById('certLink').href = cert.url;
-  document.getElementById('certDetails').style.display = 'block';
-}
-
-function closeCert() {
-  document.getElementById('certDetails').style.display = 'none';
-}
-</script>
+**Click any badge above to verify ☝️**
 
 </div>
