@@ -48,7 +48,7 @@ Python for embedded systems, data structures & algorithms, and core software eng
 </p>
 <div align="center">
 
-## 🏆 Professional Certifications
+## 🏆 ## 💪 Skills & Mastery Path - Certifications
 
 <div align="center">
 
