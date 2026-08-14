@@ -46,3 +46,23 @@ Python for embedded systems, data structures & algorithms, and core software eng
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
 </p>
+## 🏆 Certifications & Achievements
+
+<div align="center">
+
+### Professional Development Milestones
+
+![Udemy - Mastering Microsoft Word](https://img.shields.io/badge/✅-Mastering%20Microsoft%20Word-blue?style=flat-square&logo=udemy&logoColor=white)
+![Udemy - PowerPoint Basics](https://img.shields.io/badge/✅-PowerPoint%20Presentation%20Basics-blueviolet?style=flat-square&logo=udemy&logoColor=white)
+![Udemy - Advanced PowerPoint](https://img.shields.io/badge/✅-Advanced%20PowerPoint%20Masterclass-purple?style=flat-square&logo=udemy&logoColor=white)
+
+---
+
+**Certificate Gallery**
+
+| Word Mastery | PowerPoint Basics | PowerPoint Advanced |
+|:---:|:---:|:---:|
+| 3.5 hrs<br/>May 14, 2026 | 5.5 hrs<br/>June 3, 2026 | 4 hrs<br/>Aug 15, 2026 |
+| By Learnify IT | By Bright Path | By Learnify IT |
+
+</div>
