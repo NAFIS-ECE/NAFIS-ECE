@@ -59,6 +59,7 @@ Python for embedded systems, data structures & algorithms, and core software eng
 ---
 
 **Certificate Gallery**
+    *ACHIVEMENTS*
 
 | Word Mastery | PowerPoint Basics | PowerPoint Advanced |
 |:---:|:---:|:---:|
