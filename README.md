@@ -48,16 +48,17 @@ Python for embedded systems, data structures & algorithms, and core software eng
 </p>
 <div align="center">
 
-## 🏆 Professional Certifications & Milestones
+## 🏆 Professional Certifications
 
 <div align="center">
 
-### 📜 Achievement Unlocked!
+### Click any certificate to view ⬇️
 
-[![Udemy - Mastering Microsoft Word](https://img.shields.io/badge/🎓-Mastering%20Microsoft%20Word-blue?style=for-the-badge&logo=udemy&logoColor=white)](./certificates/1-word-mastery.png)
-[![Udemy - PowerPoint Basics](https://img.shields.io/badge/🎓-PowerPoint%20Presentation%20Basics-blueviolet?style=for-the-badge&logo=udemy&logoColor=white)](./certificates/2-ppt-basics.png)
-[![Udemy - Advanced PowerPoint](https://img.shields.io/badge/🎓-Advanced%20PowerPoint%20Masterclass-purple?style=for-the-badge&logo=udemy&logoColor=white)](./certificates/3-ppt-advanced.png)
-
-**Click any badge above to verify ☝️**
+| | | |
+|:---:|:---:|:---:|
+| [![Word Mastery](./certificates/1-word-mastery.png)](./certificates/1-word-mastery.png) | [![PowerPoint Basics](./certificates/2-ppt-basics.png)](./certificates/2-ppt-basics.png) | [![PowerPoint Advanced](./certificates/3-ppt-advanced.png)](./certificates/3-ppt-advanced.png) |
+| **Mastering Microsoft Word** | **PowerPoint: Blank to Powerful** | **Advanced Masterclass** |
+| May 14, 2026 • 3.5 hrs | June 3, 2026 • 5.5 hrs | Aug 15, 2026 • 4 hrs |
+| [Verify](https://ude.my/UC-b9d9f61e-9084-4dd8-9b35-dade24ddad86) | [Verify](https://ude.my/UC-a2519866-9d3d-4167-89f9-61ca1609b88d) | [Verify](https://ude.my/UC-fc49335f-0250-477a-96be-edeb7a375424) |
 
 </div>
